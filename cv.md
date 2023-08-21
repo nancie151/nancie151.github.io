@@ -8,11 +8,11 @@ title: CV
 {% include contact.html %}
 
 ## Education
-<b> UNIVERSITY OF COLORADO BOULDER <b>
-Master of Science in Data Science
+<p><b> UNIVERSITY OF COLORADO BOULDER <b><p>
+</p>Master of Science in Data Science<p>
 
-<b> UNIVERSITY OF TEXAS AT AUSTIN <b>
-Bachelor of Science in Biochemistry, Minor in Forensic Science
+<p><b> UNIVERSITY OF TEXAS AT AUSTIN <b><p>
+<p>Bachelor of Science in Biochemistry, Minor in Forensic Science<p>
 
 ### Subsection
 
