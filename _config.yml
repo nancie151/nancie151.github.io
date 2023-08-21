@@ -1,13 +1,13 @@
 # site settings
 
 title: Nancy Luong
-description: Jekyll theme for a beautiful online CV
-taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
+description: Aspiring Data Scientist | Seeking Opportunities in the Data Field | Analytical Thinker and Problem Solver
+taglong: Aspiring Data Scientist | Seeking Opportunities in the Data Field | Analytical Thinker and Problem Solver
+tagshort: Aspiring Data Scientist | Seeking Opportunities in the Data Field | Analytical Thinker and Problem Solver
 url: https://cvless.netlify.app
 baseurl: ""
 permalink: pretty
-repo: https://github.com/username/username.github.io
+repo: https://github.com/nancie151/nancie151.github.io
 
 # author settings
 
