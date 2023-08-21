@@ -1,9 +1,9 @@
 # site settings
 
 title: Nancy Luong
-description: Aspiring Data Scientist | Seeking Opportunities in the Data Field | Analytical Thinker and Problem Solver
-taglong: Aspiring Data Scientist | Seeking Opportunities in the Data Field | Analytical Thinker and Problem Solver
-tagshort: Aspiring Data Scientist | Seeking Opportunities in the Data Field | Analytical Thinker and Problem Solver
+description: Data Scientist | Seeking Opportunities in the Data Field | Analytical Thinker and Problem Solver
+taglong: Data Scientist | Seeking Opportunities in the Data Field | Analytical Thinker and Problem Solver
+tagshort: Data Scientist | Seeking Opportunities in the Data Field | Analytical Thinker and Problem Solver
 url: https://cvless.netlify.app
 baseurl: ""
 permalink: pretty
@@ -12,8 +12,8 @@ repo: https://github.com/nancie151/nancie151.github.io
 # author settings
 
 author:
-  name: Place Holder
-  email: username@domain.com
+  name: Nancy Luong
+  email: nancie151@gmail.com
 photo: /assets/jpg/photo.jpg
 
 # build settings
