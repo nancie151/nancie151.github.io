@@ -3,18 +3,16 @@ layout: cv
 title: CV
 ---
 
-# Curriculum Vitæ
+# Resume
 
 {% include contact.html %}
 
-## Section
+## Education
+<b> UNIVERSITY OF COLORADO BOULDER <b>
+Master of Science in Data Science
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-* Ut enim ad minim veniam
-* Quis nostrud exercitation
-* Ullamco laboris nisi
-* Ut aliquip ex ea commodo consequat
+<b> UNIVERSITY OF TEXAS AT AUSTIN <b>
+Bachelor of Science in Biochemistry, Minor in Forensic Science
 
 ### Subsection
 
