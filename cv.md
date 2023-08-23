@@ -8,6 +8,7 @@ title: CV
 {% include contact.html %}
 
 ## Education
+## Skills 
 <p><b> UNIVERSITY OF COLORADO BOULDER </b></p>
 <p>Master of Science in Data Science<p>
 
@@ -15,7 +16,6 @@ title: CV
 <p>Bachelor of Science in Biochemistry, Minor in Forensic Science </p>
 
 
-## Skills 
 <p><b> Technical Skills: </b> Data analysis, data modeling, statistics, data visualization, machine learning, deep learning, and data mining.  </p>
 <p><b> Languages: </b> Python (NumPy, Pandas, Keras, TensorFlow, Scikit-Learn, Matplotlib, Altair, Seaborn), R, MySQL  </p>
 <p><b> Visualization: </b> PowerBI  </p>
