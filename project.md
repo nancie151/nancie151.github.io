@@ -12,7 +12,7 @@
   .card {
     border: 1px solid #ccc;
     padding: 20px;
-    width: calc(50% - 20px);
+    width: calc(100% - 20px);
     box-sizing: border-box;
     margin-bottom: 20px;
     display: flex;
