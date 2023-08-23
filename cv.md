@@ -12,7 +12,7 @@ title: CV
 <p>Master of Science in Data Science<p>
 
 <p><b> UNIVERSITY OF TEXAS AT AUSTIN </b></p>
-<p>Bachelor of Science in Biochemistry, Minor in Forensic Science</p>
+<p>Bachelor of Science in Biochemistry, Minor in Forensic Science </p>
 
 
 ## Skills 
