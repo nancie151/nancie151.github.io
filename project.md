@@ -1,36 +1,43 @@
-<html lang="en">
+<!DOCTYPE html>
+<html>
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Card Layout Example</title>
-<style>
-  .card-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-  }
-  .card {
-    border: 1px solid #ccc;
-    padding: 20px;
-    width: calc(100% - 20px);
-    box-sizing: border-box;
-    margin-bottom: 20px;
-    display: flex;
-    flex-direction: column;
-  }
-  .card img {
-    max-width: 50%;
-    height: auto;
-    margin-bottom: 10px;
-  }
-  .card h2 {
-    margin: 0;
-  }
-  .card p {
-    flex-grow: 1;
-    margin: 0;
-  }
-</style>
+  <title>Card Layout Example</title>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap" rel="stylesheet">
+  <style>
+    .card-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+    }
+
+    .card {
+      border: 1px solid #ccc;
+      padding: 20px;
+      width: calc(100% - 20px);
+      box-sizing: border-box;
+      margin-bottom: 20px;
+      display: flex;
+      flex-direction: column;
+      font-family: 'Open Sans', sans-serif; /* Apply the font here */
+    }
+
+    .card img {
+      max-width: 50%;
+      height: auto;
+      margin-bottom: 10px;
+    }
+
+    .card h2 {
+      margin: 0;
+      font-family: 'Open Sans', sans-serif;
+    }
+
+    .card p {
+      flex-grow: 1;
+      margin: 0;
+      font-family: 'Open Sans', sans-serif;
+    }
+  </style>
 </head>
 <body>
   <div class="card-container">
