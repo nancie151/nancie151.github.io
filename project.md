@@ -22,7 +22,7 @@
     }
 
     .card img {
-      max-width: 75%;
+      max-width: 100%;
       height: auto;
       margin-bottom: 10px;
     }
