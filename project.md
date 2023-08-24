@@ -43,8 +43,8 @@
   <div class="card-container">
     <div class="card">
       <img src="phishing-detection.jpg" alt="Card 1 Image">
-      <h2 style="font-size: 12px; font-weight: bold;">Phishing Website Detection using Deep Learning Neural Network Models</h2>
-      <p style="font-size: 10px;">The impact of phishing attacks is significant, with businesses in the United States losing up to $2 billion per year as their clients fall victim to these attacks. This project aims to develop a deep learning model for detecting phishing website by extracting Uniform Resource Locator (URL) features. A diverse dataset containing labeled samples of phishing URLs and legitimate URLs will be collected and used to train the model. By analyzing and extracting URL features and patterns, the model will be trained to accurately identify and classified phishing websites.</p>
+      <h2 style="font-size: 13px; font-weight: bold;">Phishing Website Detection using Deep Learning Neural Network Models</h2>
+      <p style="font-size: 11px;">The impact of phishing attacks is significant, with businesses in the United States losing up to $2 billion per year as their clients fall victim to these attacks. This project aims to develop a deep learning model for detecting phishing website by extracting Uniform Resource Locator (URL) features. A diverse dataset containing labeled samples of phishing URLs and legitimate URLs will be collected and used to train the model. By analyzing and extracting URL features and patterns, the model will be trained to accurately identify and classified phishing websites.</p>
       <a href="https://github.com/nancie151/phishing-website-detection/blob/main/phishing%20website%20detection.ipynb">Github</a>
     </div>
     <div class="card">
