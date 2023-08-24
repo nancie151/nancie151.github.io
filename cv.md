@@ -15,6 +15,7 @@ title: CV
 <p><b> UNIVERSITY OF TEXAS AT AUSTIN </b></p>
 <p>Bachelor of Science in Biochemistry, Minor in Forensic Science </p>
 </html>
+
 ## Skills
 <p><b> Technical Skills: </b> Data analysis, data modeling, statistics, data visualization, machine learning, deep learning, and data mining.  </p>
 <p><b> Languages: </b> Python (NumPy, Pandas, Keras, TensorFlow, Scikit-Learn, Matplotlib, Altair, Seaborn), R, MySQL  </p>
