@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+Projects 
 <html>
 <head>
   <title>Card Layout Example</title>
