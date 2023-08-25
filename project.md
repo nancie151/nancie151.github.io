@@ -3,6 +3,23 @@ Projects
 <head>
   <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap" rel="stylesheet">
   <style>
+    .button{
+        display: inline-block;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        color: #ffffff;
+        background-color: #3c5d6e;
+        border-radius: 6px;
+        outline: none;
+        transition: 0.3s;
+        border: 2px solid transparent;
+      }
+      .button:hover,
+      .button:focus {
+        background-color: #c2c7c7;
+        border-color: #7aa8b7;
+      }
     .card-container {
       display: flex;
       flex-wrap: wrap;
@@ -43,8 +60,8 @@ Projects
     <div class="card">
       <img src="https://cdn.activestate.com/wp-content/uploads/2021/02/phishing-detection-with-Python.jpg" alt="Card 1 Image">
       <h2 style="font-size: 13px; color:black; font-weight: bold;">Phishing Website Detection using Deep Learning Neural Network Models</h2>
-      <p style="font-size: 12px; color: black;">The impact of phishing attacks is significant, with businesses in the United States losing up to $2 billion per year as their clients fall victim to these attacks. This project aims to develop a deep learning model for detecting phishing website by extracting Uniform Resource Locator (URL) features. A diverse dataset containing labeled samples of phishing URLs and legitimate URLs will be collected and used to train the model. By analyzing and extracting URL features and patterns, the model will be trained to accurately identify and classified phishing websites.</p>
-      <a style="font-size: 12px;"  href="https://github.com/nancie151/phishing-website-detection/blob/main/phishing%20website%20detection.ipynb" class="no-underline" >Github</a>
+      <p style="font-size: 12px; color: black;">The impact of phishing attacks is significant, with businesses in the United States losing up to $2 billion per year as their clients fall victim to these attacks. This project aims to develop a deep learning model for detecting phishing websites by extracting Uniform Resource Locator (URL) features. A diverse dataset containing labeled samples of phishing URLs and legitimate URLs will be collected and used to train the model. By analyzing and extracting URL features and patterns, the model will be trained to accurately identify and classify phishing websites.</p>
+    <a class="button" href="https://www.w3docs.com/learn-html/html-button-tag.html"><span>Github</span></a>
     </div>
     <div class="card">
       <img src="image9.jpg" alt="Card 2 Image">
