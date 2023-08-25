@@ -8,7 +8,7 @@ title: CV
 {% include contact.html %}
 
 ## Education
-<html></html>
+<html>
 <p><b> UNIVERSITY OF COLORADO BOULDER </b></p>
 <p>Master of Science in Data Science<p>
 
