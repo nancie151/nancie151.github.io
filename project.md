@@ -5,11 +5,11 @@ Projects
   <style>
     .button{
         display: inline-block;
-        padding: 10px 20px;
-        text-align: center;
+        padding: 6px 12px;
+        text-align: left;
         text-decoration: none;
         color: #ffffff;
-        background-color: #3c5d6e;
+        background-color: #c2c7c7;
         border-radius: 6px;
         outline: none;
         transition: 0.3s;
