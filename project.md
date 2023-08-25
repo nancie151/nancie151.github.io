@@ -47,22 +47,16 @@ Projects
       <a style="font-size: 12px;"  href="https://github.com/nancie151/phishing-website-detection/blob/main/phishing%20website%20detection.ipynb" class="no-underline" >Github</a>
     </div>
     <div class="card">
-      <img src="image9.jpg" alt="Card 2 Image">
-      <h2>Card 2</h2>
-      <p>This is the content of card 2. Ut enim ad minim veniam...</p>
-      <a href="https://example.com/card2">Learn More</a>
+      <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*XNRBAAbQgBFgazapkBoK2w.png" alt="Card 2 Image">
+      <h2 style="font-size: 13px; color:black; font-weight: bold;"> Disaster Tweets prediction</h2>
+      <p style="font-size: 12px; color: black;">As social media has become an important part of many people's lives for keeping in touch with their friends and family, it has also become a crucial communication channel during times of emergency. It allows individuals to announce observed emergencies in real-time. This project aims to monitor, analyze, and determine which tweets are or aren't related to disasters.</p>
+      <a style="font-size: 12px;"  href="https://github.com/nancie151/phishing-website-detection/blob/main/phishing%20website%20detection.ipynb" class="no-underline" >Github</a>
     </div>
          <div class="card">
-      <img src="image9.jpg" alt="Card 9 Image">
-      <h2>Card 9</h2>
-      <p>This is the content of card 9. Sed ut perspiciatis unde omnis iste...</p>
-      <a href="https://example.com/card9">Learn More</a>
-    </div>
-    <div class="card">
-      <img src="image10.jpg" alt="Card 10 Image">
-      <h2>Card 10</h2>
-      <p>This is the content of card 10. Nemo enim ipsam voluptatem quia...</p>
-      <a href="https://example.com/card10">Learn More</a>
+      <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*XNRBAAbQgBFgazapkBoK2w.png" alt="Card 2 Image">
+      <h2 style="font-size: 13px; color:black; font-weight: bold;"> Disaster Tweets prediction</h2>
+      <p style="font-size: 12px; color: black;">As social media has become an important part of many people's lives for keeping in touch with their friends and family, it has also become a crucial communication channel during times of emergency. It allows individuals to announce observed emergencies in real-time. This project aims to monitor, analyze, and determine which tweets are or aren't related to disasters.</p>
+      <a style="font-size: 12px;"  href="https://github.com/nancie151/phishing-website-detection/blob/main/phishing%20website%20detection.ipynb" class="no-underline" >Github</a>
     </div>
   </div>
 </body>
