@@ -84,5 +84,3 @@ Projects
       <p style="font-size: 13px; color: black;"> With the continuous influx of news articles, it becomes essential to classify and organize them for effective information retrieval. This project addresses this need by employing machine learning algorithms to automatically categorize BBC News articles into various topics. </p>
       <a style="font-size: 14px;"  href="https://github.com/nancie151/BBC-News-Classification/blob/main/BBC_Classification.ipynb" >Github</a>
   </div>
-</body>
-</html>
