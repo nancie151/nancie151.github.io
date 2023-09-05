@@ -76,11 +76,11 @@ Projects
       <img src="https://www.cdc.gov/diabetes/images/library/spotlights/diabetes-stats-report-724px.png?_=42420" alt="Card 6 Image">
       <h2 style="font-size: 14px; color:black; font-weight: bold;"> DIABETES PREDICTION MODEL</h2>
       <p style="font-size: 13px; color: black;"> With the continuous influx of news articles, it becomes essential to classify and organize them for effective information retrieval. This project addresses this need by employing machine learning algorithms to automatically categorize BBC News articles into various topics. </p>
-      <a style="font-size: 14px;"  href="https://github.com/nancie151/BBC-News-Classification/blob/main/BBC_Classification.ipynb" >Github</a>
+      <a style="font-size: 14px;"  href="https://github.com/nancie151/Diabetes/blob/main/diabetes.ipynb" >Github</a>
     </div>
        <div class="card">
       <img src="https://images.ctfassets.net/mgl1kxuxn1e1/3TEMP5UQUSD9KEmjoc7eHj/d94eecb5610587059c055f1d9b41d222/Interest_Rates_Explainer_-_Rectangle_Small.png" alt="Card 7 Image">
       <h2 style="font-size: 14px; color:black; font-weight: bold;"> INTEREST RATE PREDICTION HACKATHON</h2>
-      <p style="font-size: 13px; color: black;"> With the continuous influx of news articles, it becomes essential to classify and organize them for effective information retrieval. This project addresses this need by employing machine learning algorithms to automatically categorize BBC News articles into various topics. </p>
-      <a style="font-size: 14px;"  href="https://github.com/nancie151/BBC-News-Classification/blob/main/BBC_Classification.ipynb" >Github</a>
+      <p style="font-size: 13px; color: black;"> Interest rates play a crucial role in the housing market. Lower interest rates can make housing more affordable, leading to increased demand and potentially higher property prices. Conversely, higher interest rates can have the opposite effect. This project utilizes machine learning techniques to predict interest rates for houses, incorporating various factors that influence these rates. </p>
+      <a style="font-size: 14px;"  href="https://github.com/nancie151/Hackathon/blob/main/Hackathon%20Nov%202022%20.ipynb" >Github</a>
   </div>
