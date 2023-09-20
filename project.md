@@ -44,7 +44,7 @@ Projects
       <img src="https://cdn.activestate.com/wp-content/uploads/2021/02/phishing-detection-with-Python.jpg" alt="Card 1 Image">
       <h2 style="font-size: 14px; color:black; font-weight: bold;">PHISHING WEBSITE DETECTION USING DEEP NEURAL NETWORK MODELS </h2>
       <p style="font-size: 13px; color: black;">The impact of phishing attacks is significant, with businesses in the United States losing up to $2 billion per year as their clients fall victim to these attacks. This project aims to develop a deep learning model for detecting phishing websites by extracting Uniform Resource Locator (URL) features. A diverse dataset containing labeled samples of phishing URLs and legitimate URLs will be collected and used to train the model. By analyzing and extracting URL features and patterns, the model will be trained to accurately identify and classify phishing websites. </p>
-      <a style="font-size: 14px;"  href="https://github.com/nancie151/phishing-websitedetection/blob/main/phishing%20website%20detection.ipynb">Github</a>
+      <a style="font-size: 14px;"  href="https://github.com/nancie151/phishing-website-detection/blob/main/phishing%20website%20detection.ipynb">Github</a>
     </div>
     <div class="card">
       <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*XNRBAAbQgBFgazapkBoK2w.png" alt="Card 2 Image">
